@@ -37,9 +37,9 @@ public class OAuthManagerPackage implements ReactPackage {
      * will be automatically included in the JS bundle.
      */
 
-    public List<Class<? extends JavaScriptModule>> createJSModules() {
-        return Collections.emptyList();
-    }
+//     public List<Class<? extends JavaScriptModule>> createJSModules() {
+//         return Collections.emptyList();
+//     }
 
     /**
      * @param reactContext
